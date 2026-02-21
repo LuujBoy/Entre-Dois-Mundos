@@ -3,6 +3,12 @@
   "resourceVersion": "1.6",
   "name": "Entre Dois Mundos",
   "resources": [
+    {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},"order":2,},
+    {"id":{"name":"obj_caixa1","path":"objects/obj_caixa1/obj_caixa1.yy",},"order":1,},
+    {"id":{"name":"obj_mouse","path":"objects/obj_mouse/obj_mouse.yy",},"order":0,},
+    {"id":{"name":"spr_mouse","path":"sprites/spr_mouse/spr_mouse.yy",},"order":0,},
+    {"id":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},"order":2,},
+    {"id":{"name":"spr_caixa1","path":"sprites/spr_caixa1/spr_caixa1.yy",},"order":1,},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},"order":0,},
   ],
   "Options": [
