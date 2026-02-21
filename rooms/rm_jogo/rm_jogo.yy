@@ -19,7 +19,9 @@
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4504C54","properties":[],"isDnd":false,"objectId":{"name":"obj_mouse","path":"objects/obj_mouse/obj_mouse.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":837.0,"y":81.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7703462C","properties":[],"isDnd":false,"objectId":{"name":"obj_caixa1","path":"objects/obj_caixa1/obj_caixa1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":378.0,"y":108.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_76EAB14C","properties":[],"isDnd":false,"objectId":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":11.5,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":486.0,"y":189.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_76EAB14C","properties":[],"isDnd":false,"objectId":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":11.5,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":369.0,"y":411.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4060B7D3","properties":[],"isDnd":false,"objectId":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":-23.25189,"scaleX":3.109375,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":737.0175,"y":242.64726,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_19EB4E9E","properties":[],"isDnd":false,"objectId":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.984375,"scaleY":2.265625,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":161.80032,"y":308.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":27,"gridY":27,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","spriteId":null,"colour":4278190080,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
   ],
@@ -30,6 +32,8 @@
     {"name":"inst_4504C54","path":"rooms/rm_jogo/rm_jogo.yy",},
     {"name":"inst_7703462C","path":"rooms/rm_jogo/rm_jogo.yy",},
     {"name":"inst_76EAB14C","path":"rooms/rm_jogo/rm_jogo.yy",},
+    {"name":"inst_4060B7D3","path":"rooms/rm_jogo/rm_jogo.yy",},
+    {"name":"inst_19EB4E9E","path":"rooms/rm_jogo/rm_jogo.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
@@ -49,7 +53,7 @@
     "inheritPhysicsSettings": false,
     "PhysicsWorld": true,
     "PhysicsWorldGravityX": 0.0,
-    "PhysicsWorldGravityY": 10.0,
+    "PhysicsWorldGravityY": 100.0,
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
