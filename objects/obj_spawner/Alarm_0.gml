@@ -1,11 +1,17 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-random(random_range(240, 690)
+//fazendo uma variavel temporaria para a layer da room
+var _instances = 1;
 
-var _Instances = "Instances"
+//randomize()
 
-instance_create_layer()
+instance_create_depth(random_range(200, 780), y, _instances, obj_caixa1) ;
+
+alarm[0] = 100;
 
 
-
+if (alarm[0] < 20)
+{
+    alarm[0] = 20;
+}
