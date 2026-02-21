@@ -1,9 +1,11 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-vel = (5);
+random(random_range(240, 690)
 
-move_towards_point(0, y, vel)
+var _Instances = "Instances"
+
+instance_create_layer()
 
 
 
