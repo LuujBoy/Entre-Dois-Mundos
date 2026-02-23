@@ -1,11 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-x = mouse_x
-y = mouse_y
+global.pontuacao += 100;
 
-if global.pontuacao <= 0
-{
-	global.pontuacao = 0
-}
 

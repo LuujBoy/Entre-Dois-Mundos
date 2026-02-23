@@ -1,11 +1,9 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-x = mouse_x
-y = mouse_y
+draw_set_font(fnt_1);
 
-if global.pontuacao <= 0
-{
-	global.pontuacao = 0
-}
+draw_text(x, y, string(global.pontuacao)+ "")
+
+
 
