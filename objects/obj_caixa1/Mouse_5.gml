@@ -1,9 +1,8 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-move_towards_point(x, -32, 3);
+vel = 6;
 
-vel = 4
-
+move_towards_point(970, y, vel);
 
 

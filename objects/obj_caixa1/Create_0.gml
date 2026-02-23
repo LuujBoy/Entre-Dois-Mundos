@@ -3,4 +3,4 @@
 
 move_towards_point(x, 540, 3);
 
-vel = 3
+vel = 4

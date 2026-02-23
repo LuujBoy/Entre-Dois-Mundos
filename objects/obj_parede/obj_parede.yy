@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_parede1",
+  "name": "obj_parede",
   "spriteId": {
     "name": "spr_parede1",
     "path": "sprites/spr_parede1/spr_parede1.yy",
