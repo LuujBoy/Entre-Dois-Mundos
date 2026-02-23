@@ -2,6 +2,6 @@
 // Você pode escrever seu código neste editor
 
 //verificando quando o alarme dispara
-show_debug_message(alarm[0])
+show_debug_message(alarm[1]);
 
 

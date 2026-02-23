@@ -1,8 +1,7 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-//iniciando o alarme0
-alarm[0] = 100;
- 
-alarm[1] = 200
+vel += 0.5
+
+
 

@@ -1,8 +1,13 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-//iniciando o alarme0
-alarm[0] = 100;
- 
-alarm[1] = 200
+vel = (5);
+
+move_towards_point(0, y, vel)
+
+
+
+
+
+
 
