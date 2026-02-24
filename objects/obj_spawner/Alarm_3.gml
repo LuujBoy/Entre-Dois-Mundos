@@ -1,7 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-//criando as caixas vermelhas
 
 var _instances = 1;
 
@@ -17,5 +16,8 @@ if (alarm[1] < 20)
     alarm[1] = 20;
 }
 
-alarm[2] = 200
+alarm[3] = 70
+
+
+
 

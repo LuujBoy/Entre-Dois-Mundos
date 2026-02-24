@@ -3,5 +3,9 @@
 
 vel += 0.5
 
+if y > 540
+{
+	global.pontuacao -= 500
 
-
+	instance_destroy(other)
+}
