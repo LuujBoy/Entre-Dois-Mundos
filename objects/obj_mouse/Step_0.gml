@@ -11,8 +11,10 @@ if global.pontuacao <= 0
 
 if global.vidas = 0
 {
-	room_goto(rm_gameover)
 	
+	room_restart()
+	
+	room_goto(rm_gameover)
 	
 	global.vidas = 5;
 }

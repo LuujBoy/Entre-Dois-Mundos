@@ -1,9 +1,9 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-global.pontuacao -= 1000;
+draw_self();
 
-global.vidas -= 1
+draw_set_font(fnt_2);
 
-instance_destroy(self);
+draw_text(x - 55, y - 20, "Continuar");
 
