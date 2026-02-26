@@ -7,5 +7,9 @@ if y > 540
 {
 	global.pontuacao -= 500
 
+	global.vidas -= 1;
+
 	instance_destroy(other)
 }
+
+

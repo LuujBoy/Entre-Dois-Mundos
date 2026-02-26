@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_parede2",
   "spriteId": {
-    "name": "spr_parede2",
-    "path": "sprites/spr_parede2/spr_parede2.yy",
+    "name": "spr_portal2",
+    "path": "sprites/spr_portal2/spr_portal2.yy",
   },
   "solid": false,
   "visible": true,
