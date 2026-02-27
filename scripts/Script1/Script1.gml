@@ -1,5 +1,5 @@
 
 
-global.vidas = 5;
+global.vidas = 3;
 
 global.pontuacao = 0;

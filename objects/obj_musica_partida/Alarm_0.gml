@@ -1,6 +1,7 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
+//musica que irá tocar ao ser acionado
 audio_play_sound(snd_background, 2, true);
 
 

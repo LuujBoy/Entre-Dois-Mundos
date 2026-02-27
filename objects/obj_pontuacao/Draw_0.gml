@@ -1,6 +1,7 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
+//definindo a fonte
 draw_set_font(fnt_1);
 
 draw_text(x - 40, y, "Seus pontos: "+string(global.pontuacao)+ "");
