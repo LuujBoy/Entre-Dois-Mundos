@@ -12,6 +12,8 @@ if global.pontuacao <= 0
 if global.vidas = 0
 {
 	
+	audio_play_sound(snd_lose, 1, false);
+	
 	room_restart()
 	
 	room_goto(rm_gameover)

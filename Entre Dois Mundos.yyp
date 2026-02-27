@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},"order":2,},
     {"id":{"name":"spr_inimigo","path":"sprites/spr_inimigo/spr_inimigo.yy",},"order":12,},
+    {"id":{"name":"snd_galaxia","path":"sounds/snd_galaxia/snd_galaxia.yy",},"order":16,},
     {"id":{"name":"spr_parede2","path":"sprites/spr_parede2/spr_parede2.yy",},"order":5,},
     {"id":{"name":"spr_portal1","path":"sprites/spr_portal1/spr_portal1.yy",},"order":8,},
     {"id":{"name":"snd_alert","path":"sounds/snd_alert/snd_alert.yy",},"order":4,},
@@ -33,6 +34,7 @@
     {"id":{"name":"snd_jump","path":"sounds/snd_jump/snd_jump.yy",},"order":12,},
     {"id":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"order":4,},
     {"id":{"name":"spr_mouse","path":"sprites/spr_mouse/spr_mouse.yy",},"order":0,},
+    {"id":{"name":"snd_background","path":"sounds/snd_background/snd_background.yy",},"order":15,},
     {"id":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},"order":1,},
     {"id":{"name":"spr_caixa1","path":"sprites/spr_caixa1/spr_caixa1.yy",},"order":1,},
     {"id":{"name":"fnt_1","path":"fonts/fnt_1/fnt_1.yy",},"order":0,},

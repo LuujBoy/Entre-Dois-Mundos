@@ -23,6 +23,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_ECE02DD","properties":[],"isDnd":false,"objectId":{"name":"obj_caixa1","path":"objects/obj_caixa1/obj_caixa1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":460.0,"y":-76.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4504C54","properties":[],"isDnd":false,"objectId":{"name":"obj_mouse","path":"objects/obj_mouse/obj_mouse.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":837.0,"y":81.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2E96B2D","properties":[],"isDnd":false,"objectId":{"name":"obj_pontuacao","path":"objects/obj_pontuacao/obj_pontuacao.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":60.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2FD8DD7F","properties":[],"isDnd":false,"objectId":{"name":"obj_musica_partida","path":"objects/obj_musica_partida/obj_musica_partida.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":570.0,"y":480.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":30,"gridY":30,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"galaxia","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_17110AC7","properties":[],"isDnd":false,"objectId":{"name":"obj_fundo","path":"objects/obj_fundo/obj_fundo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.5049505,"scaleY":2.7882352,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":464.00003,"y":272.00003,},
@@ -40,6 +41,7 @@
     {"name":"inst_64B82E07","path":"rooms/rm_jogo/rm_jogo.yy",},
     {"name":"inst_17110AC7","path":"rooms/rm_jogo/rm_jogo.yy",},
     {"name":"inst_2E96B2D","path":"rooms/rm_jogo/rm_jogo.yy",},
+    {"name":"inst_2FD8DD7F","path":"rooms/rm_jogo/rm_jogo.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
