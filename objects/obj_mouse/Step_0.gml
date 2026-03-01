@@ -13,6 +13,7 @@ if global.pontuacao <= 0
 //se o player morrer 
 if global.vidas = 0
 {
+	global.vidas = 3
 	//o a snd_lose será tocado
 	audio_play_sound(snd_lose, 1, false);
 	//a room será restartada
